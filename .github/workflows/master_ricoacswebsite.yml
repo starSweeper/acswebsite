@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'ricoacswebsite'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1B209BF9B7C64259B6F404740493FDF6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FA314BF6305F4588B8CEA575E5CDF687 }}
           package: .
